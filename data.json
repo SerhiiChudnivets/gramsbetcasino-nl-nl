@@ -1,0 +1,384 @@
+{
+  "name": "gramsbetcasino-nl.nl",
+  "site_name": "SpinStag Casino Nederland | Exclusieve Bonussen & Slots",
+  "html_head": "<link rel=\"canonical\" href=\"https://gramsbetcasino-nl.nl/nl-nl/\">\n<link rel=\"alternate\" href=\"https://gramsbetcasino-nl.nl/\" hreflang=\"nl\">\n<link rel=\"alternate\" href=\"https://gramsbetcasino-nl.nl/nl-nl/\" hreflang=\"nl-NL\">\n<meta property=\"og:locale\" content=\"nl_NL\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"--\">\n<meta property=\"og:description\" content=\"--\">\n<meta property=\"og:url\" content=\"gramsbetcasino-nl.nl\">\n<meta property=\"og:site_name\" content= \"Daytona Spin Casino\">\n",
+  "url": "gramsbetcasino-nl.nl",
+  "template": "tupchiy",
+  "language_code": "nl",
+  "allow_indexing": false,
+  "redirect_404s_to_homepage": true,
+  "use_www_version": false,
+  "breadcrumbs": true,
+  "content": "<p></p>",
+  "pages": [
+    {
+      "id": 121,
+      "title": "GramsBet Casino",
+      "slug": "nl-nl",
+      "content": "<p></p>",
+      "seoTitle": "SpinStag Casino Nederland | Exclusieve Bonussen & Slots",
+      "seoDescription": "Ontdek SpinStag Casino voor Nederlandse spelers. Geniet van meer dan 8.000 gokkasten, live casinospellen en snelle betalingen onder een veilige MGA-licentie.",
+      "htmlHead": "<link rel=\"canonical\" href=\"https://gramsbetcasino-nl.nl/nl-nl/\">\n<link rel=\"alternate\" href=\"https://gramsbetcasino-nl.nl/\" hreflang=\"nl\">\n<link rel=\"alternate\" href=\"https://gramsbetcasino-nl.nl/nl-nl/\" hreflang=\"nl-NL\">\n<meta property=\"og:locale\" content=\"nl_NL\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"--\">\n<meta property=\"og:description\" content=\"--\">\n<meta property=\"og:url\" content=\"gramsbetcasino-nl.nl\">\n<meta property=\"og:site_name\" content= \"Daytona Spin Casino\">\n",
+      "gptPrompt": "",
+      "heroTitle": "SpinStag Casino ",
+      "heroSubtitle": "Vandaag spelen, vandaag pakken",
+      "heroBadge": "SpinStag – Jouw Weg naar Winst",
+      "ctaText": "Claim je bonus",
+      "tagline": "150% tot €750 + 75 Free Spins",
+      "heroImage": "",
+      "template": "homepage",
+      "isHomepage": false,
+      "order": 0,
+      "lang": "nl-NL",
+      "faqTitle": "FAQ ",
+      "popupText": "150% tot €750 + 75 Free Spins",
+      "popupLogo": "",
+      "sections": null,
+      "slots": [
+        {
+          "link": "/play/",
+          "logo": "",
+          "name": "",
+          "Name": ""
+        },
+        {
+          "link": "/play/",
+          "logo": "",
+          "name": "",
+          "Name": ""
+        },
+        {
+          "link": "/play/",
+          "logo": "",
+          "name": "",
+          "Name": ""
+        },
+        {
+          "link": "/play/",
+          "logo": "",
+          "name": "",
+          "Name": ""
+        },
+        {
+          "link": "/play/",
+          "logo": "",
+          "name": "",
+          "Name": ""
+        }
+      ],
+      "bonuses": [
+        {
+          "link": "/play/",
+          "logo": "",
+          "name": "",
+          "Name": ""
+        },
+        {
+          "link": "/play/",
+          "logo": "",
+          "name": "",
+          "Name": ""
+        },
+        {
+          "link": "/play/",
+          "logo": "",
+          "name": "",
+          "Name": ""
+        },
+        {
+          "link": "/play/",
+          "logo": "",
+          "name": "",
+          "Name": ""
+        }
+      ],
+      "faq": [],
+      "globalSlotSetId": null,
+      "globalReviewSetId": null,
+      "websiteId": 202,
+      "createdAt": {},
+      "updatedAt": {},
+      "globalSlotSet": null,
+      "globalReviewSet": null,
+      "popup_text": "150% tot €750 + 75 Free Spins",
+      "hero_title": "SpinStag Casino ",
+      "hero_subtitle": "Vandaag spelen, vandaag pakken",
+      "seo_title": "SpinStag Casino Nederland | Exclusieve Bonussen & Slots",
+      "seo_description": "Ontdek SpinStag Casino voor Nederlandse spelers. Geniet van meer dan 8.000 gokkasten, live casinospellen en snelle betalingen onder een veilige MGA-licentie.",
+      "html_head": "<link rel=\"canonical\" href=\"https://gramsbetcasino-nl.nl/nl-nl/\">\n<link rel=\"alternate\" href=\"https://gramsbetcasino-nl.nl/\" hreflang=\"nl\">\n<link rel=\"alternate\" href=\"https://gramsbetcasino-nl.nl/nl-nl/\" hreflang=\"nl-NL\">\n<meta property=\"og:locale\" content=\"nl_NL\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"--\">\n<meta property=\"og:description\" content=\"--\">\n<meta property=\"og:url\" content=\"gramsbetcasino-nl.nl\">\n<meta property=\"og:site_name\" content= \"Daytona Spin Casino\">\n",
+      "faq_title": "FAQ ",
+      "hero_badge": "SpinStag – Jouw Weg naar Winst",
+      "cta_text": "Claim je bonus"
+    }
+  ],
+  "faq_schema": {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": ""
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": ""
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": ""
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": ""
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": ""
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": ""
+        }
+      }
+    ]
+  },
+  "seo_description": "Ontdek SpinStag Casino voor Nederlandse spelers. Geniet van meer dan 8.000 gokkasten, live casinospellen en snelle betalingen onder een veilige MGA-licentie.",
+  "redirect_site": null,
+  "hero_title": "SpinStag Casino ",
+  "hero_subtitle": "Vandaag spelen, vandaag pakken",
+  "hero_badge": "SpinStag – Jouw Weg naar Winst",
+  "cta_text": "Claim je bonus",
+  "tagline": "150% tot €750 + 75 Free Spins",
+  "features_list": null,
+  "footer_text": "© 2026. SpinStag Casino. All rights reserved",
+  "popup_text": "150% tot €750 + 75 Free Spins",
+  "faq_title": "FAQ ",
+  "login_text": "Inloggen",
+  "register_text": "Registreren",
+  "slots_title": "Slots en Casinospellen",
+  "bonus_title": "Bonussen en Promoties",
+  "get_bonus_btn_text": "Claim je bonus",
+  "redirect_link": "/play/ ",
+  "home_name": "GramsBet Casino",
+  "subdomains": null,
+  "accent_color": "#334155",
+  "main_background": "#131b18",
+  "secondary_background": "#232b28",
+  "button_background": "#ffd900",
+  "button_text_color": "#000000",
+  "text_color": "#ffffff",
+  "color_highlight_text": "#ffd900",
+  "color_main_btn_text": "#000000",
+  "cta_background": "#ffd900",
+  "logo": null,
+  "popup_logo": null,
+  "main_background_img": null,
+  "header_menu": [
+    {
+      "link": "/play/",
+      "label": "Applicatie",
+      "submenu": [],
+      "openInNewTab": false
+    },
+    {
+      "link": "/play/",
+      "label": "Beoordeling",
+      "submenu": [],
+      "openInNewTab": false
+    },
+    {
+      "link": "/play/",
+      "label": "Bonus",
+      "submenu": [],
+      "openInNewTab": false
+    },
+    {
+      "link": "/play/",
+      "label": "Gokkasten",
+      "submenu": [],
+      "openInNewTab": false
+    },
+    {
+      "link": "/play/",
+      "label": "Uitbetaling",
+      "submenu": [],
+      "openInNewTab": false
+    }
+  ],
+  "footer_menu": [
+    {
+      "link": "/play/",
+      "label": "Verantwoord spelen",
+      "submenu": [],
+      "openInNewTab": false
+    },
+    {
+      "link": "/play/",
+      "label": "Privacybeleid",
+      "submenu": [],
+      "openInNewTab": false
+    },
+    {
+      "link": "/play/",
+      "label": "Cookiebeleid",
+      "submenu": [],
+      "openInNewTab": false
+    },
+    {
+      "link": "/play/",
+      "label": "Algemene voorwaarden",
+      "submenu": [],
+      "openInNewTab": false
+    },
+    {
+      "link": "/play/",
+      "label": "Contacten",
+      "submenu": [],
+      "openInNewTab": false
+    },
+    {
+      "link": "/play/",
+      "label": "Wedregels",
+      "submenu": [],
+      "openInNewTab": false
+    }
+  ],
+  "footer_images": [
+    {
+      "link": "/play/",
+      "image": "/uploads/6e4898443d8c7a6d3f85c8c699adf4b8.svg",
+      "image_alt": "visa"
+    },
+    {
+      "link": "/play/",
+      "image": "/uploads/657303d64f52b7d3416483142b9b416c.svg",
+      "image_alt": "skrill"
+    },
+    {
+      "link": "/play/",
+      "image": "/uploads/7840ef82300a1f935a675de6720a46ea.svg",
+      "image_alt": "neosurf"
+    },
+    {
+      "link": "/play/",
+      "image": "/uploads/726d0d161f25ded497bd904b95c8dafc.svg",
+      "image_alt": "bank transfer"
+    },
+    {
+      "link": "https://www.gambleaware.org/",
+      "image": "/uploads/d406c25a07780243e74569167c0997fd.webp"
+    }
+  ],
+  "Slots": [
+    {
+      "link": "/play/",
+      "logo": "",
+      "name": "",
+      "Name": ""
+    },
+    {
+      "link": "/play/",
+      "logo": "",
+      "name": "",
+      "Name": ""
+    },
+    {
+      "link": "/play/",
+      "logo": "",
+      "name": "",
+      "Name": ""
+    },
+    {
+      "link": "/play/",
+      "logo": "",
+      "name": "",
+      "Name": ""
+    },
+    {
+      "link": "/play/",
+      "logo": "",
+      "name": "",
+      "Name": ""
+    }
+  ],
+  "Bonuses": [
+    {
+      "link": "/play/",
+      "logo": "",
+      "name": "",
+      "Name": ""
+    },
+    {
+      "link": "/play/",
+      "logo": "",
+      "name": "",
+      "Name": ""
+    },
+    {
+      "link": "/play/",
+      "logo": "",
+      "name": "",
+      "Name": ""
+    },
+    {
+      "link": "/play/",
+      "logo": "",
+      "name": "",
+      "Name": ""
+    }
+  ],
+  "Reviews": null,
+  "FAQ": [
+    {
+      "answer": "",
+      "question": ""
+    },
+    {
+      "answer": "",
+      "question": ""
+    },
+    {
+      "answer": "",
+      "question": ""
+    },
+    {
+      "answer": "",
+      "question": ""
+    },
+    {
+      "answer": "",
+      "question": ""
+    },
+    {
+      "answer": "",
+      "question": ""
+    }
+  ],
+  "_generated_at": "2026-10-13T13:23:02.535Z",
+  "_version": "1.0.0",
+  "_last_deploy": "2026-10-13T13:23:07.460Z",
+  "_deploy_trigger": "x3vi9g"
+}
