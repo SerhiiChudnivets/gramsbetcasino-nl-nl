@@ -122,50 +122,42 @@
     "mainEntity": [
       {
         "@type": "Question",
-        "name": "",
+        "name": "Hoe kan ik mij registreren bij GramsBet Casino?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": ""
+          "text": "Registreren is eenvoudig. Klik op de knop \"Registreren\" op onze homepage, vul je e-mailadres en persoonlijke gegevens in, kies EUR als valuta en bevestig je account. Daarna kun je direct inloggen."
         }
       },
       {
         "@type": "Question",
-        "name": "",
+        "name": "Is GramsBet legaal en veilig om bij te spelen?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": ""
+          "text": "Ja, ons casino opereert onder een geldige licentie en maakt gebruik van hoogwaardige encryptietechnologieën om jouw gegevens en fondsen te beschermen."
         }
       },
       {
         "@type": "Question",
-        "name": "",
+        "name": "Wat is de minimale limiet voor een GramsBet geld opname?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": ""
+          "text": "De minimale limiet voor een GramsBet geld opname verschilt per betaalmethode. Voor cryptocurrency geldt een minimale opname vanaf €10, terwijl dit voor traditionele fiat-methoden zoals bankoverschrijving op €30 ligt."
         }
       },
       {
         "@type": "Question",
-        "name": "",
+        "name": "Kan ik de spellen spelen op mijn mobiele telefoon?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": ""
+          "text": "Absoluut. Via onze GramsBet Mobiele App functionaliteit kun je onze website rechtstreeks via de browser van je smartphone of tablet openen en al onze spellen probleemloos spelen."
         }
       },
       {
         "@type": "Question",
-        "name": "",
+        "name": "Welke welkomstbonus biedt casino GramsBet aan?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": ""
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": ""
+          "text": "Nieuwe spelers kunnen profiteren van een uitgebreid welkomstpakket dat kan oplopen tot 500% tot €10.000 + 777 Free Spins verdeeld over hun eerste stortingen."
         }
       }
     ]
@@ -219,12 +211,6 @@
     },
     {
       "link": "/play/",
-      "label": "Beoordeling",
-      "submenu": [],
-      "openInNewTab": false
-    },
-    {
-      "link": "/play/",
       "label": "Bonus",
       "submenu": [],
       "openInNewTab": false
@@ -245,13 +231,7 @@
   "footer_menu": [
     {
       "link": "/play/",
-      "label": "Verantwoord spelen",
-      "submenu": [],
-      "openInNewTab": false
-    },
-    {
-      "link": "/play/",
-      "label": "Privacybeleid",
+      "label": "Privacy Policy",
       "submenu": [],
       "openInNewTab": false
     },
@@ -283,23 +263,23 @@
   "footer_images": [
     {
       "link": "/play/",
-      "image": "/uploads/6e4898443d8c7a6d3f85c8c699adf4b8.svg",
-      "image_alt": "visa"
+      "image": "/uploads/292521eb44c05ec0fdfefa6dbaa3dd0c.svg",
+      "image_alt": "apple pay"
     },
     {
       "link": "/play/",
-      "image": "/uploads/657303d64f52b7d3416483142b9b416c.svg",
-      "image_alt": "skrill"
+      "image": "/uploads/767309a1bb8da0f68e987f277a6ebbf1.webp",
+      "image_alt": "bitcoin"
     },
     {
       "link": "/play/",
-      "image": "/uploads/7840ef82300a1f935a675de6720a46ea.svg",
-      "image_alt": "neosurf"
+      "image": "/uploads/acd94c7d64c4572fa58fc8f828f74bd8.svg",
+      "image_alt": "googlepay"
     },
     {
       "link": "/play/",
-      "image": "/uploads/726d0d161f25ded497bd904b95c8dafc.svg",
-      "image_alt": "bank transfer"
+      "image": "/uploads/bbf15b10671656850b4a6181ada2f5e0.webp",
+      "image_alt": "18+"
     },
     {
       "link": "https://www.gambleaware.org/",
@@ -365,33 +345,29 @@
   "Reviews": null,
   "FAQ": [
     {
-      "answer": "",
-      "question": ""
+      "answer": "Registreren is eenvoudig. Klik op de knop \"Registreren\" op onze homepage, vul je e-mailadres en persoonlijke gegevens in, kies EUR als valuta en bevestig je account. Daarna kun je direct inloggen.",
+      "question": "Hoe kan ik mij registreren bij GramsBet Casino?"
     },
     {
-      "answer": "",
-      "question": ""
+      "answer": "Ja, ons casino opereert onder een geldige licentie en maakt gebruik van hoogwaardige encryptietechnologieën om jouw gegevens en fondsen te beschermen.",
+      "question": "Is GramsBet legaal en veilig om bij te spelen?"
     },
     {
-      "answer": "",
-      "question": ""
+      "answer": "De minimale limiet voor een GramsBet geld opname verschilt per betaalmethode. Voor cryptocurrency geldt een minimale opname vanaf €10, terwijl dit voor traditionele fiat-methoden zoals bankoverschrijving op €30 ligt.",
+      "question": "Wat is de minimale limiet voor een GramsBet geld opname?"
     },
     {
-      "answer": "",
-      "question": ""
+      "answer": "Absoluut. Via onze GramsBet Mobiele App functionaliteit kun je onze website rechtstreeks via de browser van je smartphone of tablet openen en al onze spellen probleemloos spelen.",
+      "question": "Kan ik de spellen spelen op mijn mobiele telefoon?"
     },
     {
-      "answer": "",
-      "question": ""
-    },
-    {
-      "answer": "",
-      "question": ""
+      "answer": "Nieuwe spelers kunnen profiteren van een uitgebreid welkomstpakket dat kan oplopen tot 500% tot €10.000 + 777 Free Spins verdeeld over hun eerste stortingen.",
+      "question": "Welke welkomstbonus biedt casino GramsBet aan?"
     }
   ],
-  "_generated_at": "2026-10-14T15:26:10.419Z",
+  "_generated_at": "2026-10-14T15:47:46.822Z",
   "_version": "1.0.0",
   "content_alt": "gramsbot casino slots",
-  "_last_deploy": "2026-10-14T15:26:11.040Z",
-  "_deploy_trigger": "guwpgg"
+  "_last_deploy": "2026-10-14T15:47:47.510Z",
+  "_deploy_trigger": "ugobtf"
 }
