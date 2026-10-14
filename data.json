@@ -24,14 +24,14 @@
       "heroSubtitle": "Vandaag spelen, vandaag pakken",
       "heroBadge": "SpinStag – Jouw Weg naar Winst",
       "ctaText": "Claim je bonus",
-      "tagline": "150% tot €750 + 75 Free Spins",
+      "tagline": "WELCOME BONUS 500% up to €10 000+777 FS",
       "heroImage": "",
       "template": "homepage",
       "isHomepage": false,
       "order": 0,
       "lang": "nl-NL",
       "faqTitle": "FAQ ",
-      "popupText": "150% tot €750 + 75 Free Spins",
+      "popupText": "WELCOME BONUS 500% up to €10 000+777 FS",
       "popupLogo": "",
       "sections": null,
       "slots": [
@@ -69,25 +69,25 @@
       "bonuses": [
         {
           "link": "/play/",
-          "logo": "",
+          "logo": "/uploads/135c603ffad761f96d76df6510b181d0.webp",
           "name": "",
           "Name": ""
         },
         {
           "link": "/play/",
-          "logo": "",
+          "logo": "/uploads/da3b859b6cbf34745ff18e9120c05af3.webp",
           "name": "",
           "Name": ""
         },
         {
           "link": "/play/",
-          "logo": "",
+          "logo": "/uploads/e2f8413f9c2131c44c3f127f830c8bb7.webp",
           "name": "",
           "Name": ""
         },
         {
           "link": "/play/",
-          "logo": "",
+          "logo": "/uploads/00a738cd7b6c21c9b9db2c57d4aa3523.webp",
           "name": "",
           "Name": ""
         }
@@ -100,7 +100,7 @@
       "updatedAt": {},
       "globalSlotSet": null,
       "globalReviewSet": null,
-      "popup_text": "150% tot €750 + 75 Free Spins",
+      "popup_text": "WELCOME BONUS 500% up to €10 000+777 FS",
       "hero_title": "SpinStag Casino ",
       "hero_subtitle": "Vandaag spelen, vandaag pakken",
       "seo_title": "SpinStag Casino Nederland | Exclusieve Bonussen & Slots",
@@ -171,10 +171,10 @@
   "hero_subtitle": "Vandaag spelen, vandaag pakken",
   "hero_badge": "SpinStag – Jouw Weg naar Winst",
   "cta_text": "Claim je bonus",
-  "tagline": "150% tot €750 + 75 Free Spins",
+  "tagline": "WELCOME BONUS 500% up to €10 000+777 FS",
   "features_list": null,
   "footer_text": "© 2026. SpinStag Casino. All rights reserved",
-  "popup_text": "150% tot €750 + 75 Free Spins",
+  "popup_text": "WELCOME BONUS 500% up to €10 000+777 FS",
   "faq_title": "FAQ ",
   "login_text": "Inloggen",
   "register_text": "Registreren",
@@ -327,25 +327,25 @@
   "Bonuses": [
     {
       "link": "/play/",
-      "logo": "",
+      "logo": "/uploads/135c603ffad761f96d76df6510b181d0.webp",
       "name": "",
       "Name": ""
     },
     {
       "link": "/play/",
-      "logo": "",
+      "logo": "/uploads/da3b859b6cbf34745ff18e9120c05af3.webp",
       "name": "",
       "Name": ""
     },
     {
       "link": "/play/",
-      "logo": "",
+      "logo": "/uploads/e2f8413f9c2131c44c3f127f830c8bb7.webp",
       "name": "",
       "Name": ""
     },
     {
       "link": "/play/",
-      "logo": "",
+      "logo": "/uploads/00a738cd7b6c21c9b9db2c57d4aa3523.webp",
       "name": "",
       "Name": ""
     }
@@ -377,8 +377,8 @@
       "question": ""
     }
   ],
-  "_generated_at": "2026-10-13T13:23:02.535Z",
+  "_generated_at": "2026-10-14T14:18:47.227Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-10-13T13:23:07.460Z",
-  "_deploy_trigger": "x3vi9g"
+  "_last_deploy": "2026-10-14T14:18:47.843Z",
+  "_deploy_trigger": "qslia8"
 }
