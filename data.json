@@ -190,14 +190,14 @@
   "home_name": "GramsBet Casino",
   "subdomains": null,
   "accent_color": "#334155",
-  "main_background": "#131b18",
-  "secondary_background": "#232b28",
-  "button_background": "#ffd900",
-  "button_text_color": "#000000",
+  "main_background": "#0d3961",
+  "secondary_background": "#051a2c",
+  "button_background": "#c0fd7a",
+  "button_text_color": "#051a2c",
   "text_color": "#ffffff",
-  "color_highlight_text": "#ffd900",
-  "color_main_btn_text": "#000000",
-  "cta_background": "#ffd900",
+  "color_highlight_text": "#ffffff",
+  "color_main_btn_text": "#051a2c",
+  "cta_background": "#c0fd7a",
   "logo": {
     "url": "/uploads/f6b1ebb8d7bec1cd2bb44740009308c2.webp",
     "alt": "gramsbet casino logo"
@@ -389,9 +389,9 @@
       "question": ""
     }
   ],
-  "_generated_at": "2026-10-14T15:24:30.961Z",
+  "_generated_at": "2026-10-14T15:26:10.419Z",
   "_version": "1.0.0",
   "content_alt": "gramsbot casino slots",
-  "_last_deploy": "2026-10-14T15:24:31.650Z",
-  "_deploy_trigger": "rdgc6"
+  "_last_deploy": "2026-10-14T15:26:11.040Z",
+  "_deploy_trigger": "guwpgg"
 }
